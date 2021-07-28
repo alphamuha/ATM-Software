@@ -1,0 +1,11 @@
+P:\Microsoft Visual Studio\source\repos\ATM Software\bin\Debug\ATM Software.exe.config
+P:\Microsoft Visual Studio\source\repos\ATM Software\bin\Debug\ATM Software.exe
+P:\Microsoft Visual Studio\source\repos\ATM Software\bin\Debug\ATM Software.pdb
+P:\Microsoft Visual Studio\source\repos\ATM Software\obj\Debug\ATM Software.csproj.AssemblyReference.cache
+P:\Microsoft Visual Studio\source\repos\ATM Software\obj\Debug\ATM_Software.Form1.resources
+P:\Microsoft Visual Studio\source\repos\ATM Software\obj\Debug\ATM_Software.Properties.Resources.resources
+P:\Microsoft Visual Studio\source\repos\ATM Software\obj\Debug\ATM Software.csproj.GenerateResource.cache
+P:\Microsoft Visual Studio\source\repos\ATM Software\obj\Debug\ATM Software.csproj.CoreCompileInputs.cache
+P:\Microsoft Visual Studio\source\repos\ATM Software\obj\Debug\ATM Software.exe
+P:\Microsoft Visual Studio\source\repos\ATM Software\obj\Debug\ATM Software.pdb
+P:\Microsoft Visual Studio\source\repos\ATM Software\obj\Debug\ATM_Software.Form2.resources
